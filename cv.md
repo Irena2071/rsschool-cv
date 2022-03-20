@@ -5,7 +5,7 @@
 ### Contact information:
 __Address:__ _Kalinina st. Novopolotsk, Belarus_  
 __Phone:__ _+375(33)676-39-28_  
-__E-mail:__ _irena171702@gmail.com_  
+__E-mail:__ _[irena171702@gmail.com](irena171702@gmail.com)_  
 __Telegramm:__ _@irena_1702_  
 __GitHub:__ _[irena2071](https://github.com/Irena2071)_  
 
