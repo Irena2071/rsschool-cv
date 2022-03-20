@@ -11,7 +11,15 @@ ____
 __Positive qualities:__ responsibility, honesty, purposefulness, responsiveness. Last two years I work at the oil refinery. And it's a very boring job for me. That's why I'm looking for an interesting and promising profession such as Front-end Developer.
 ___
 ### Skills:
+* HTML
+* CSS
+* Git/GitHub
 ____
 ### Education
+##### Polotsk State University
+* _Economics and Management (2016-2020)_
+* _Diploma of retraining in the specialty "Labor protection at petrochemical and oil refining enterprises"(2018-2020)_
 ___
 ### Languages:
+__Russian__ - native  
+__English__ - A2
