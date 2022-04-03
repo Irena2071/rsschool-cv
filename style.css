@@ -37,6 +37,32 @@ body{
     height: 200px;
 }
 
+.top .border h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 45px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+    padding-top: 5px;
+}
+
+.top .border h2{
+    text-align: center;
+    line-height: 70px;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.top .border{
+    outline: 3px solid #948371;
+    margin: 30px;
+}
+
 .left-side{
     background: #e4d0b6;
     width: 300px;
