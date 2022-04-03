@@ -1,1 +1,1 @@
-hthttps://irena2071.github.io/rsschool-cv/
+https://irena2071.github.io/rsschool-cv/
