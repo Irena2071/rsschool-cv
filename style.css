@@ -194,12 +194,9 @@ p{
 
 .footer{
     grid-area: footer;
-}
-
-.footer{
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    padding: 5px;
     align-items: center;
     font-weight: bold;
     background-color: #F6F6F6;
