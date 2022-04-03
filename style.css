@@ -191,3 +191,17 @@ p{
     color: #413829;
     font-weight: 400;
 }
+
+.footer{
+    grid-area: footer;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    font-weight: bold;
+    background-color: #F6F6F6;
+    width: 900px;
+}
