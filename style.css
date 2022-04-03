@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300;400;500;700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Mono', monospace; 
+    list-style: none;
+}
+
+body{
+    background: #e2e2e2;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.resume{
+    width: 900px;
+    background: #fff;
+    margin: 50px auto;
+    max-width: 1000px;
+    min-height: 1000px;
+    display: grid;
+    grid-template-areas: 
+    "top top"
+    "left-side right-side"
+    "footer footer";
+    grid-template-rows: 200px auto 55px;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 5px 5px 40px 10px #949494; 
+}
+
+.top{
+    grid-area: top;
+    background: #e4d0b6;
+    height: 200px;
+}
+
+.left-side{
+    background: #e4d0b6;
+    width: 300px;
+    padding: 0 20px;
+    grid-area: left-side;
+}
+
+.right-side{
+    width: calc (100% - 250px);
+    grid-area: right-side;
+    background-color: #f5f3ee;
+}
+
+.left-side .imgBx{
+    margin: 15px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.left-side .imgBx img{
+    width: 240px;
+    border-radius: 15px;
+}
