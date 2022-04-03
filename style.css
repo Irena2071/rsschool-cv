@@ -126,3 +126,68 @@ p{
     margin-bottom: 15px;
     font-size: 17px;
 }
+
+.about {
+    margin: 20px 10px 50px 10px;
+}
+
+.title2{
+    color: #554130;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.title3{
+    color: #554130;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.education{
+    margin: 20px 10px 50px 10px;
+}
+
+.education .box{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.education h3{
+    font-weight: 500;
+}
+
+.education .box .year h4{
+    min-width: 150px;
+    text-transform: uppercase;
+    color: #848c90;
+    font-weight: 600;
+ }
+
+ .education .box p{
+    font-weight: 400;
+}
+
+.Skills{
+    margin: 20px 10px 50px 10px;
+}
+
+.Skills ul{
+    position: relative;
+}
+
+.Skills ul li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.Skills ul li span{
+    color: #413829;
+    font-weight: 400;
+}
